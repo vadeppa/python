@@ -1,0 +1,12 @@
+WAP Login email page ?
+
+example:- email_id='Vadeppa1994@gamil.com'
+          password='Rocky123'
+
+if email_id and password True 
+
+output:- vadeppa your email-id successfully open
+
+if email_id or password False
+
+vadeppa your enter wrong password try agin 

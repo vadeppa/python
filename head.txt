@@ -1,0 +1,1 @@
+{'k': 10, 'b': 15, 'g': 60}hello my name is vadeppa

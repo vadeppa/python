@@ -1,0 +1,11 @@
+##from calculation import *
+##a=sum(2023,30567)
+##print(a)
+##b=sub(20321,1043)
+##print(b)
+##c=mul(201,101)
+##print(c)
+##d=div(200,10)
+##print(d)
+##e=mod(2001,10)
+##print(e)

@@ -1,0 +1,23 @@
+1. Write a Python program to make a chain of function decorators (bold, italic, underline etc.) in Python. 
+
+2. Write a Python program to extract specified size of strings from a give list of string values using lambda.
+Original list:
+['Python', 'list', 'exercises', 'practice', 'solution']
+length of the string to extract:
+8
+After extracting strings of specified length from the said list:
+['practice', 'solution']
+
+3. Write a Python program to create a deep copy of a given dictionary. Use copy.copy
+
+4. Write a Python Program to Check a Number is a Spy Number or Not? note:- without  forloop.
+
+5. Write a Python program to find the XOR of two given strings interpreted as binary numbers.
+Input:
+['0001', '1011']
+Output:
+0b1010
+Input:
+['100011101100001', '100101100101110']
+Output:
+0b110001001111
